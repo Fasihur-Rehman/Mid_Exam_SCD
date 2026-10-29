@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<focus_report created_at="2026-10-29 13:22:36">
+  <settings>
+    <daily_limit_minutes>2</daily_limit_minutes>
+  </settings>
+  <sessions>
+    <session>
+      <session_name>fasih</session_name>
+      <planned_minutes>1</planned_minutes>
+      <started_at>2026-10-29 13:10:33</started_at>
+      <ended_at>2026-10-29 13:10:58</ended_at>
+      <elapsed_seconds>24</elapsed_seconds>
+    </session>
+    <session>
+      <session_name>fas</session_name>
+      <planned_minutes>1</planned_minutes>
+      <started_at>2026-10-29 13:11:26</started_at>
+      <ended_at>2026-10-29 13:11:30</ended_at>
+      <elapsed_seconds>3</elapsed_seconds>
+    </session>
+    <session>
+      <session_name>fas</session_name>
+      <planned_minutes>1</planned_minutes>
+      <started_at>2026-10-29 13:20:45</started_at>
+      <ended_at>2026-10-29 13:20:55</ended_at>
+      <elapsed_seconds>9</elapsed_seconds>
+    </session>
+  </sessions>
+</focus_report>
